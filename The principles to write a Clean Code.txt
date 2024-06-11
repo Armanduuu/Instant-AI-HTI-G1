@@ -1,0 +1,31 @@
+The book "Clean Code: A Handbook of Agile Software Craftsmanship" has 15 principles to write a clean code, here is the summary of these principles:
+
+1.Meaningful Names: Choose clear, descriptive names.
+
+2.Functions: Keep functions small and focused.
+
+3.Comments: Use comments to explain why, not what.
+
+4.Formatting: Consistent and readable formatting.
+
+5.Objects and Data Structures: Encapsulation and clarity in data representation.
+
+6.Error Handling: Use exceptions and context-aware messages.
+
+7.Boundaries: Define clear interfaces and isolate third-party code.
+
+8.Unit Tests: Write tests for all functionalities.
+
+9.Classes: Apply SOLID principles and maintain small, cohesive classes.
+
+10.System Design: Separate construction from use, avoid premature optimization.
+
+11.Code Smells: Identify and refactor bad code patterns.
+
+12.Refactoring: Continuous improvement with testing.
+
+13.Concurrency: Keep concurrent code simple, avoid shared data.
+
+14.Code Reviews: Regular, constructive reviews focusing on quality.
+
+15.Systematic Approach: Discipline, continuous learning, and adherence to standards.
